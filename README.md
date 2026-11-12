@@ -58,12 +58,17 @@ There is no account and no cloud. Nothing about your traffic leaves your Mac.
 - Spoken summary on **⌃⌘M**, useful with VoiceOver.
 
 ### Built to feel native
-- Light and dark appearance, a menu-bar popover with live rates, keyboard shortcuts (**⌘1 to ⌘4**, **⌘F**), and a guided first-run setup.
+- Light and dark appearance, a menu-bar popover with live rates, keyboard shortcuts (**⌘1 to ⌘8** for each page, **⌘K** to jump anywhere, **⌘F**), and a guided first-run setup.
 
 <br/>
 
 <p align="center">
   <img src="docs/images/rules-light.png" width="49%" alt="Rules" />
+  <img src="docs/images/connections-light.png" width="49%" alt="Connections" />
+</p>
+
+<p align="center">
+  <img src="docs/images/overview-light.png" width="49%" alt="Overview" />
   <img src="docs/images/onboarding-setup.png" width="49%" alt="Guided setup" />
 </p>
 
