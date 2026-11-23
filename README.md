@@ -68,6 +68,7 @@ There is no account and no cloud. Nothing about your traffic leaves your Mac.
 </p>
 
 <p align="center">
+  <img src="docs/images/map-light.png" width="49%" alt="Map of where your Mac connects" />
   <img src="docs/images/overview-light.png" width="49%" alt="Overview" />
   <img src="docs/images/onboarding-setup.png" width="49%" alt="Guided setup" />
 </p>
