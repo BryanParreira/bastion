@@ -19,8 +19,8 @@ Per-app traffic monitoring, connection rules, and a camera and microphone watchd
 <br/>
 
 <p align="center">
-  <img src="docs/images/monitor-light.png" width="49%" alt="Network Monitor, light" />
-  <img src="docs/images/monitor-dark.png" width="49%" alt="Network Monitor, dark" />
+  <img src="docs/images/monitor-light.png" width="49%" alt="Apps, light" />
+  <img src="docs/images/monitor-dark.png" width="49%" alt="Apps, dark" />
 </p>
 
 <br/>
@@ -58,7 +58,7 @@ There is no account and no cloud. Nothing about your traffic leaves your Mac.
 - Spoken summary on **⌃⌘M**, useful with VoiceOver.
 
 ### Built to feel native
-- Light and dark appearance, a menu-bar popover with live rates, keyboard shortcuts (**⌘1 to ⌘8** for each page, **⌘K** to jump anywhere, **⌘F**), and a guided first-run setup.
+- Light and dark appearance, a menu-bar popover with live rates, keyboard shortcuts (**⌘1 to ⌘4** for the four pages, **⌘K** to jump anywhere, **⌘F**), and a guided first-run setup.
 
 <br/>
 
