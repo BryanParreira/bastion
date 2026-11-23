@@ -58,7 +58,7 @@ There is no account and no cloud. Nothing about your traffic leaves your Mac.
 - Spoken summary on **⌃⌘M**, useful with VoiceOver.
 
 ### Built to feel native
-- Light and dark appearance, a menu-bar popover with live rates, keyboard shortcuts (**⌘1 to ⌘4** for the four pages, **⌘K** to jump anywhere, **⌘F**), and a guided first-run setup.
+- Light and dark appearance, a menu-bar popover with live rates, keyboard shortcuts (**⌘1 to ⌘8** for every page and tab, **⌘K** to jump anywhere, **⌘F**), and a guided first-run setup.
 
 <br/>
 
